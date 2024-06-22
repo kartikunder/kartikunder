@@ -89,9 +89,9 @@
 <!--<a href="https://dribbble.com/kartikunder" target="_blank">-->
 <!--<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />-->
 <!--</a>-->
-<a href="https://github.com/kartikunder" target="_blank">
+<!-- <a href="https://github.com/kartikunder" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.facebook.com/kartik.kunder.7" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
