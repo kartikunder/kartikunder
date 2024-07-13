@@ -21,9 +21,10 @@
 
   
 
-- 📄 Resume: [Link to resume](https://drive.google.com/file/d/1sUyAk-N8mxq967TE-GvUHnz7_LSMqEdm/view?usp=sharing)  
+- 📄 LeetCode: <a href="https://leetcode.com/kartikunder" target="_blank">LeetCode Profile</a>
+- 📄 Resume: <a href="https://drive.google.com/file/d/16qOoFgYsrVIZmeZIgXKxJd9kDI3nGYVi/view?usp=sharing" target="_blank">Link to resume</a>
   
-<!--- 🧑 Portfolio: [Kartik Kunder](http://example/com)  -->
+<!--- 🧑 Portfolio: <a href="http://example.com" target="_blank">Kartik Kunder</a>  -->
 
 <br/>  
 
@@ -121,3 +122,4 @@
 
 ----
 <!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
+
