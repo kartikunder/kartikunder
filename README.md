@@ -1,20 +1,18 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" align="center" style="max-width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Kartik, Web developer who thrives on challenges👨‍💻  and embraces new technologies 🚀</div>  
-  
 
+## This is me 👇  
+🚀 I'm a hardworking individual who loves exploring new programming languages, building projects, and expanding my network. If you're interested in collaborating on projects or simply want to connect with a fellow tech enthusiast, don't hesitate to reach out. I'm all about building bonds and gaining experience while making new friends in the world of tech. Let's create something amazing together! 🌟  
+<hr style="height :1px">
 - 🔭 I’m currently working on ecommerce website   
   
-
 - 🌱 I’m currently learning MERN  
   
-
 - ❓ Ask me about anything related to HTML, CSS, Boostrap, Tailwind, JavaScript
   
-
 - ⚡ Fun fact: I'm a night owl coder, so most of my best work happens in the late hours.  
   
 
@@ -81,9 +79,9 @@
 <a href="https://instagram.com/kartikunder" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/kartikunder" target="_blank">
+<!-- <a href="https://twitter.com/kartikunder" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://linkedin.com/in/Kartik Kunder" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -107,19 +105,8 @@
 
 <br/>  
 
-
-## This is me 👇  
-🚀 I'm a hardworking individual who loves exploring new programming languages, building projects, and expanding my network. If you're interested in collaborating on projects or simply want to connect with a fellow tech enthusiast, don't hesitate to reach out. I'm all about building bonds and gaining experience while making new friends in the world of tech. Let's create something amazing together! 🌟  
-  
-
-<br/>  
-
-<!--<div align="center">-->
-<!--<img src="https://www.canva.com/design/DAFzUj6V-II/BxvzH0geE7_GVmbfCRAvPA/edit?utm_content=DAFzUj6V-II&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" height="" width="600" />-->
-<!--</div>  -->
-
-<!--<br />-->
-
-----
-<!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
+<div align="center">
+  <p>Thank you for visiting my profile! Feel free to explore my projects and connect with me on social media. Let's innovate and create together!</p>
+  <p>Have a wonderful day! 🌟</p>
+</div>
 
